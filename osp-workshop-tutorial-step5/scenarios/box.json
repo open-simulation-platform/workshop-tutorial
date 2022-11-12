@@ -1,0 +1,28 @@
+{
+    "defaults": {
+        "model": "reference_model",
+        "action": "override"
+    },
+    "events": [
+        {
+            "time": 500,
+            "variable": "Position_Setpoint[2]",
+            "value": 100
+        },
+        {
+            "time": 1000,
+            "variable": "Position_Setpoint[1]",
+            "value": 50
+        },
+        {
+            "time": 1500,
+            "variable": "Position_Setpoint[2]",
+            "value": 0
+        },
+        {
+            "time": 2000,
+            "variable": "Position_Setpoint[1]",
+            "value": 0
+        }
+    ]
+}
