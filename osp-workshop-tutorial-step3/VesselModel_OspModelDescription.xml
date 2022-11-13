@@ -56,7 +56,7 @@
                 <Variable ref="Current_Velocity[2]" unit="m/s"/>
                 <Variable ref="Current_Velocity[3]" unit="m/s"/>
             </LinearVelocity>
-            <AngularVelocity name="anuglar_current_velocity">    
+            <AngularVelocity name="angular_current_velocity">    
                 <Variable ref="Current_Velocity[4]" unit="rad/s"/>
                 <Variable ref="Current_Velocity[5]" unit="rad/s"/>
                 <Variable ref="Current_Velocity[6]" unit="rad/s"/>
